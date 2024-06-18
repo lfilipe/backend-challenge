@@ -1,4 +1,4 @@
-# Uphill Backend Interview Exercise
+# Backend Interview Exercise
 
 ### Instructions how to build and run the project locally
 
